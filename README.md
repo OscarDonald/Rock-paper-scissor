@@ -1,4 +1,4 @@
-#🌟 Welcome to the Ultimate Rock-Paper-Scissors Showdown! 🌟
+🌟 Welcome to the Ultimate Rock-Paper-Scissors Showdown! 🌟
 
 Prepare for an epic battle of wits and strategy as you enter the world of Rock, Paper, Scissors! We're thrilled to have you here to test your decision-making skills and see if you have what it takes to emerge victorious.
 
